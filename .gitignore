@@ -4,5 +4,7 @@ __pycache__/
 *.pyo
 *.pyd
 *.db
-*.session
+sessions_private/
+auth.log
 .env
+.auth.log
